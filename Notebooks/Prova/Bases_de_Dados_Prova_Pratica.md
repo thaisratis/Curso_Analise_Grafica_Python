@@ -1,3 +1,5 @@
+Escolha uma das bases abaixo para fazer a EDA:
+
 https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows/data
 https://www.kaggle.com/datasets/lakshayjain611/f1-races-results-dataset-1950-to-2024/data
 https://www.kaggle.com/datasets/kanchana1990/real-estate-data-chicago-2024/data
